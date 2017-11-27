@@ -8,5 +8,6 @@ namespace VS_Git
 {
     class Class4
     {
+        // This is a comment
     }
 }
